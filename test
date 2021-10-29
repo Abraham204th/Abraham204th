@@ -12,7 +12,7 @@ ENT.Category = [LFS]
 ENT.Spawnable		= true -- set to "true" to make it spawnable
 ENT.AdminSpawnable	= true
 
-ENT.MDL = "models/props_interiors/BathTub01a.mdl" -- model forward direction must be facing to X+
+ENT.MDL = "models/sfp_tieinterdictor/sfp_tieinterdictor.mdl" -- model forward direction must be facing to X+
 --[[
 ENT.GibModels = {
 	"models/XQM/wingpiece2.mdl",
